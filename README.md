@@ -16,9 +16,8 @@ This project showcases a smooth **ring pulse animation** using pure **HTML** and
 
 ## 📸 Preview
 
-## 📸 Preview
+![Preview](ring.gif)
 
-🎬 [Click to watch the preview video](preview.mp4)
  
 
 ## 🛠 Technologies Used
